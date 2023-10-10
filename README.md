@@ -19,6 +19,7 @@ The various csv files containing sales data for vehicles were kept together in a
 folder from the dialog box.<br><br>
 ***Power Query -> From File -> From Folder -> Type or paste folder path or browse folder location -> Click Ok*** <br><br>
 From Diaglog box,the required option such as ***Combine & Edit*** were selected.
+![IMAGE](https://github.com/Tungana-Bhavya/VEHICLE_SALES_DATA_ANALYSIS_AND_VISUALIZATION/tree/main/IMAGES)
 
 
 
