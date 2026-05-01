@@ -26,7 +26,7 @@ folder from the dialog box.<br>
 
 From Diaglog box, the required option as ***Combine & Edit*** were selected as shown below.
 <p align="center">
-  <img src="https://github.com/Tungana-Bhavya/VEHICLE_SALES_DATA_ANALYSIS_AND_VISUALIZATION/blob/main/IMAGES/VEHICLE_SALES_DATA_1_LOADING%20FILES.jpg">
+  <img src="">
 </p>
 
 After selecting ***Combine & Edit*** option, the dialog box appears as below:
